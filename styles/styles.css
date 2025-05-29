@@ -272,3 +272,7 @@ main .section.highlight {
   object-fit: contain;
   vertical-align: middle;
 }
+
+.header {
+  background-color: #222222;
+}
